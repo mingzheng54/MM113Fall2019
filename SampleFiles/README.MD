@@ -5,7 +5,8 @@
 
 ## PART I: SETUP & REVIEW
 
-### 1. Forke and Clone the homework from GitHub
+### 1. Fork and Clone the homework from GitHub
+
 
 Fork the following file on github in your account: ireichert/MM113Fall2019.git
 
